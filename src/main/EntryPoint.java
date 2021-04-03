@@ -9,6 +9,7 @@ public class EntryPoint {
 		dynamicArray.add(5);
 		dynamicArray.add(7);
 		dynamicArray.add(9);
+		dynamicArray.add(11);
 		
 		System.out.println(dynamicArray.toString());
 	}
